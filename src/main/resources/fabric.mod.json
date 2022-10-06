@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "winter",
+  "version": "${version}",
+  "name": "Winter",
+  "description": "Minecraft hacked client for experimenting with Java and Minecraft development",
+  "authors": [
+    "cynikkk"
+  ],
+  "contact": {
+    "website": "https://theoabel.com",
+    "repo": "https://github.com/cynikkk/Winter"
+  },
+  "license": "MIT",
+  "icon": "assets/winter/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "me.cynikkk.winter.client.WinterClient"
+    ],
+    "main": [
+      "me.cynikkk.winter.Winter"
+    ]
+  },
+  "mixins": [
+    "winter.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
