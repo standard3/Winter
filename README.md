@@ -3,10 +3,10 @@
 </p>
 <h1 align="center">Winter Client</h1>
 <p align="center">Winter is a fabric utility mod with the mail goal of experimenting with Java and related stuff on Minecraft.<p>
-<br>
 <div align="center">
     <img alt="License"         src="https://img.shields.io/github/license/cynikkk/Winter?style=for-the-badge">
     <img alt="Total downloads" src="https://img.shields.io/github/downloads/cynikkk/Winter/total?style=for-the-badge">
+    <br>
     <br>
     There are a lot of subjects involving programming and reverse engineering, so it's a good starting point to learn some new stuff.
 </div>
