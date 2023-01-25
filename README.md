@@ -16,7 +16,7 @@
 **Building**
 
 - Get the repository with `git clone https://github.com/cynikkk/Winter`
-- cd `./gradlew build`
+- `gradlew build`
 
 The project is being made with [Intellij IDEA](https://www.jetbrains.com/idea/) and [Minecraft Dev](https://mcdev.io) plugin.
 
